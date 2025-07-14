@@ -1,3 +1,4 @@
 # SkyOS
-My first project.The Sky system is based on Scratch.Note: Be sure to run on the TurboWarp editor.
-The release is also available for download.
+由一位小学生打造的全新UI！
+注意：虽然基于Scratch，但不兼容Scratch。仅支持TurboWarp！
+Releases可供下载！
