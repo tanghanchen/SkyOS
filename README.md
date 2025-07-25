@@ -1,6 +1,4 @@
 # SkyOS
-由一位小学生打造的系统！
-不支持Scratch哦！
-TurboWarp可运行。
-Releases可供下载！
-喜欢的话就点个Star吧！
+不支持Scratch，仅TurboWarp支持（有许多扩展Scratch不支持）。
+
+感谢各位的支持！（求Star）
